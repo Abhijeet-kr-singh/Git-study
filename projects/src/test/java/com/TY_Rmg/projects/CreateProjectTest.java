@@ -7,5 +7,6 @@ public class CreateProjectTest {
 	public void createProjectTest()
 	{
 		System.out.println("creating the project");	
+		System.out.println("this project is updated");
 	}
 }
