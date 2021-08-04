@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class CreateContactTest {
 	@Test
-	public void CreateContactTest() {
+	public void createContactTest() {
 		String url=System.getProperty("URL");
 		String browser = System.getProperty("Browser");
 		System.out.println("URL is: "+url);
